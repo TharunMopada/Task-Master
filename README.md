@@ -78,13 +78,14 @@ npx react-native run-android
 
 📸 Screenshots
 🔑 Authentication
-<img src="screenshots/login.png" width="400"/>
+<img src=""C:\Users\tharu\OneDrive\Pictures\Screenshots\Screenshot 2025-08-28 161353.png">
 🏠 Dashboard (Light Mode)
-<img src="screenshots/dashboard-light.png" width="400"/>
+<img src=""C:\Users\tharu\OneDrive\Pictures\Screenshots\Screenshot 2025-08-28 161455.png">
 🌙 Dashboard (Dark Mode)
-<img src="screenshots/dashboard-dark.png" width="400"/>
+<img src=""C:\Users\tharu\OneDrive\Pictures\Screenshots\Screenshot 2025-08-28 161556.png">
 ➕ Create Task
-<img src="screenshots/create-task.png" width="400"/>
+<img src=""C:\Users\tharu\OneDrive\Pictures\Screenshots\Screenshot 2025-08-28 161523.png">
+
 📌 Future Enhancements
 
 🔄 Backend API with Node.js / Nest.js + MongoDB
