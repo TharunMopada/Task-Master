@@ -106,3 +106,9 @@ npx react-native run-android
 📊 Analytics dashboard for productivity insights
 
 🧩 Drag & drop task ordering
+
+
+👨‍💻 Author
+
+Tharun Mopada
+📧 Email:tharunmopada@gmail.com
