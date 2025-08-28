@@ -53,6 +53,7 @@ React Native Paper / Custom Components (UI elements)
 
 
 📂 Project Structure
+
 TaskMaster/
 │── src/
 │   ├── components/      # Reusable UI components
@@ -76,15 +77,19 @@ npm install
 Run on Android (emulator or device):
 npx react-native run-android
 
-📸 Screenshots
-🔑 Authentication
-<img src=""C:\Users\tharu\OneDrive\Pictures\Screenshots\Screenshot 2025-08-28 161353.png">
-🏠 Dashboard (Light Mode)
-<img src=""C:\Users\tharu\OneDrive\Pictures\Screenshots\Screenshot 2025-08-28 161455.png">
-🌙 Dashboard (Dark Mode)
-<img src=""C:\Users\tharu\OneDrive\Pictures\Screenshots\Screenshot 2025-08-28 161556.png">
-➕ Create Task
-<img src=""C:\Users\tharu\OneDrive\Pictures\Screenshots\Screenshot 2025-08-28 161523.png">
+## 📸 Screenshots  
+
+### 🔑 Authentication  
+![Authentication](assets/Screenshot%202025-08-28%20161353.png)  
+
+### 🏠 Dashboard (Light Mode)  
+![Dashboard Light](assets/Screenshot%202025-08-28%20161455.png)  
+
+### 🌙 Dashboard (Dark Mode)  
+![Dashboard Dark](assets/Screenshot%202025-08-28%20161556.png)  
+
+### ➕ Create Task  
+![Create Task](assets/Screenshot%202025-08-28%20161523.png)  
 
 📌 Future Enhancements
 
