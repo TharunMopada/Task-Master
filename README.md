@@ -80,16 +80,20 @@ npx react-native run-android
 ## 📸 Screenshots  
 
 ### 🔑 Authentication  
-![Authentication](assets/Screenshot%202025-08-28%20161353.png)  
+
+<img width="1853" height="937" alt="Screenshot 2025-08-28 161353" src="https://github.com/user-attachments/assets/4d160942-a964-4aec-a54d-27be6ab94bfe" />
 
 ### 🏠 Dashboard (Light Mode)  
-![Dashboard Light](assets/Screenshot%202025-08-28%20161455.png)  
+
+<img width="1849" height="932" alt="Screenshot 2025-08-28 161455" src="https://github.com/user-attachments/assets/a5e45d8b-a068-4cec-9602-0991a9d0ec40" />
 
 ### 🌙 Dashboard (Dark Mode)  
-![Dashboard Dark](assets/Screenshot%202025-08-28%20161556.png)  
+
+<img width="1856" height="936" alt="Screenshot 2025-08-28 161556" src="https://github.com/user-attachments/assets/4ce1ee52-b53f-443e-a43a-37ec4df67538" />
 
 ### ➕ Create Task  
-![Create Task](assets/Screenshot%202025-08-28%20161523.png)  
+
+<img width="1854" height="935" alt="Screenshot 2025-08-28 161523" src="https://github.com/user-attachments/assets/da96a797-9407-4678-a7ae-dcdab82630ee" />
 
 📌 Future Enhancements
 
