@@ -1,73 +1,98 @@
-# Welcome to your Lovable project
+📋 TaskMaster – React Native To-Do App
 
-## Project info
+TaskMaster is a React Native CLI To-Do application (with TypeScript) that helps users stay organized and boost productivity. The app comes with authentication, task management, filtering, sorting, and priority features, wrapped in a clean and modern UI with both light & dark mode support.
 
-**URL**: https://lovable.dev/projects/852ad3dc-fe37-41eb-8f3a-f84d7a762ff6
 
-## How can I edit this code?ī
+🚀 Features
 
-There are several ways of editing your application.
+🔐 Authentication
 
-**Use Lovable**
+Register with email & password
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/852ad3dc-fe37-41eb-8f3a-f84d7a762ff6) and start prompting.
+Login with credentials
 
-Changes made via Lovable will be committed automatically to this repo.
+✅ Task Management
 
-**Use your preferred IDE**
+Add tasks with title, description, start time, deadline, and priority
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Mark tasks as completed
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Delete tasks
 
-Follow these steps:
+View tasks with status indicators
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+🎨 UI & UX
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Light & Dark mode
 
-# Step 3: Install the necessary dependencies.
-npm i
+Animated statistics cards (Total, Pending, Completed)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Modern task cards with priority tags (Low, Medium, High)
 
-**Edit a file directly in GitHub**
+Friendly empty states & notifications
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+⚡ Advanced Options (Bonus)
 
-**Use GitHub Codespaces**
+Sorting by created date, deadline, priority
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Filter by status (All, Pending, Completed)
 
-## What technologies are used for this project?
+Priority-based algorithm for ordering tasks
 
-This project is built with:
+Creative & responsive design
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+🛠️ Tech Stack
 
-## How can I deploy this project?
+React Native CLI (with TypeScript)
 
-Simply open [Lovable](https://lovable.dev/projects/852ad3dc-fe37-41eb-8f3a-f84d7a762ff6) and click on Share -> Publish.
+Firebase Authentication (for user login & signup)
 
-## Can I connect a custom domain to my Lovable project?
+React Hooks & Context API (state management)
 
-Yes, you can!
+React Native Paper / Custom Components (UI elements)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+📂 Project Structure
+TaskMaster/
+│── src/
+│   ├── components/      # Reusable UI components
+│   ├── screens/         # App screens (Login, Register, Dashboard, etc.)
+│   ├── context/         # State management (Auth, Tasks)
+│   ├── utils/           # Helper functions
+│   ├── assets/          # Icons & Images
+│── App.tsx              # Main entry point
+│── package.json
+│── README.md
+
+⚙️ Installation & Setup
+
+Clone the repository:
+git clone https://github.com/your-username/taskmaster.git
+cd taskmaster
+
+Install dependencies:
+npm install
+
+Run on Android (emulator or device):
+npx react-native run-android
+
+📸 Screenshots
+🔑 Authentication
+<img src="screenshots/login.png" width="400"/>
+🏠 Dashboard (Light Mode)
+<img src="screenshots/dashboard-light.png" width="400"/>
+🌙 Dashboard (Dark Mode)
+<img src="screenshots/dashboard-dark.png" width="400"/>
+➕ Create Task
+<img src="screenshots/create-task.png" width="400"/>
+📌 Future Enhancements
+
+🔄 Backend API with Node.js / Nest.js + MongoDB
+
+🏷️ Task categories & tags
+
+📲 Push notifications for deadlines
+
+📊 Analytics dashboard for productivity insights
+
+🧩 Drag & drop task ordering
